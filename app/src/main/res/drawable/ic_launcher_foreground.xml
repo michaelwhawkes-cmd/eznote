@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Notepad + pen, drawn in a 64-unit box and scaled into the adaptive-icon safe zone -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <group android:translateX="17.5" android:translateY="21.5" android:scaleX="1.03125" android:scaleY="1.03125">
+        <path android:fillColor="#FFFFFF" android:pathData="M17,11 H41 A4,4 0 0 1 45,15 V49 A4,4 0 0 1 41,53 H17 A4,4 0 0 1 13,49 V15 A4,4 0 0 1 17,11 Z" />
+        <path android:fillColor="#1B2A5C" android:pathData="M21,7 A2,2 0 0 1 23,9 V15 A2,2 0 0 1 19,15 V9 A2,2 0 0 1 21,7 Z" />
+        <path android:fillColor="#1B2A5C" android:pathData="M29,7 A2,2 0 0 1 31,9 V15 A2,2 0 0 1 27,15 V9 A2,2 0 0 1 29,7 Z" />
+        <path android:fillColor="#1B2A5C" android:pathData="M37,7 A2,2 0 0 1 39,9 V15 A2,2 0 0 1 35,15 V9 A2,2 0 0 1 37,7 Z" />
+        <path android:strokeColor="#BFD0FA" android:strokeWidth="2.2" android:strokeLineCap="round" android:pathData="M19,25 H39 M19,31 H39 M19,37 H39 M19,43 H31" />
+        <group android:pivotX="46" android:pivotY="40" android:rotation="40">
+            <path android:fillColor="#FFFFFF" android:strokeColor="#FFFFFF" android:strokeWidth="3.6" android:strokeLineJoin="round"
+                android:pathData="M44.5,19 H47.5 A2,2 0 0 1 49.5,21 V48 L46,56 L42.5,48 V21 A2,2 0 0 1 44.5,19 Z" />
+            <path android:fillColor="#1B2A5C" android:pathData="M44.5,19 H47.5 A2,2 0 0 1 49.5,21 V25 H42.5 V21 A2,2 0 0 1 44.5,19 Z" />
+            <path android:fillColor="#FFB020" android:pathData="M42.5,25 H49.5 V48 H42.5 Z" />
+            <path android:fillColor="#FFE2B3" android:pathData="M42.5,48 H49.5 L46,56 Z" />
+            <path android:fillColor="#1B2A5C" android:pathData="M44.8,52.6 H47.2 L46,56 Z" />
+        </group>
+    </group>
+</vector>

@@ -1,0 +1,9 @@
+{
+  "name": "ez-note-server",
+  "version": "1.0.0",
+  "description": "Accounts (passkey + password) and sync for the EZ Note Android app. No dependencies.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
